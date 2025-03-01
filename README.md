@@ -5,7 +5,6 @@
 ### SKILLS:
 - Python
 - HTML
-- CSS
 - Valve Hammer Editor
 
 <!---
